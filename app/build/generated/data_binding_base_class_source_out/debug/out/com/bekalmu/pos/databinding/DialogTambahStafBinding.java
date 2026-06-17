@@ -4,7 +4,6 @@ package com.bekalmu.pos.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RadioButton;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -35,12 +34,6 @@ public final class DialogTambahStafBinding implements ViewBinding {
   public final TextInputEditText etUsername;
 
   @NonNull
-  public final RadioButton rbKasir;
-
-  @NonNull
-  public final RadioButton rbOwner;
-
-  @NonNull
   public final TextInputLayout tilNama;
 
   @NonNull
@@ -52,15 +45,13 @@ public final class DialogTambahStafBinding implements ViewBinding {
   private DialogTambahStafBinding(@NonNull MaterialCardView rootView,
       @NonNull MaterialButton btnSimpan, @NonNull TextInputEditText etNama,
       @NonNull TextInputEditText etPassword, @NonNull TextInputEditText etUsername,
-      @NonNull RadioButton rbKasir, @NonNull RadioButton rbOwner, @NonNull TextInputLayout tilNama,
-      @NonNull TextInputLayout tilPassword, @NonNull TextInputLayout tilUsername) {
+      @NonNull TextInputLayout tilNama, @NonNull TextInputLayout tilPassword,
+      @NonNull TextInputLayout tilUsername) {
     this.rootView = rootView;
     this.btnSimpan = btnSimpan;
     this.etNama = etNama;
     this.etPassword = etPassword;
     this.etUsername = etUsername;
-    this.rbKasir = rbKasir;
-    this.rbOwner = rbOwner;
     this.tilNama = tilNama;
     this.tilPassword = tilPassword;
     this.tilUsername = tilUsername;
@@ -117,18 +108,6 @@ public final class DialogTambahStafBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.rbKasir;
-      RadioButton rbKasir = ViewBindings.findChildViewById(rootView, id);
-      if (rbKasir == null) {
-        break missingId;
-      }
-
-      id = R.id.rbOwner;
-      RadioButton rbOwner = ViewBindings.findChildViewById(rootView, id);
-      if (rbOwner == null) {
-        break missingId;
-      }
-
       id = R.id.tilNama;
       TextInputLayout tilNama = ViewBindings.findChildViewById(rootView, id);
       if (tilNama == null) {
@@ -148,7 +127,7 @@ public final class DialogTambahStafBinding implements ViewBinding {
       }
 
       return new DialogTambahStafBinding((MaterialCardView) rootView, btnSimpan, etNama, etPassword,
-          etUsername, rbKasir, rbOwner, tilNama, tilPassword, tilUsername);
+          etUsername, tilNama, tilPassword, tilUsername);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -64,10 +64,6 @@
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_cart.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_pengaturan.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_pengaturan.xml"
-    },
-    {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_inventori.xml",
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_inventori.xml"
     },
@@ -84,6 +80,10 @@
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_produk_kasir.xml"
     },
     {
+        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_login.xml",
+        "source": "com.bekalmu.pos.app-main-55:/layout/activity_login.xml"
+    },
+    {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_tambah_produk.xml",
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_tambah_produk.xml"
     },
@@ -94,6 +94,10 @@
     {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_kas.xml",
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_kas.xml"
+    },
+    {
+        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/dialog_tambah_staf.xml",
+        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_tambah_staf.xml"
     },
     {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_login.xml",

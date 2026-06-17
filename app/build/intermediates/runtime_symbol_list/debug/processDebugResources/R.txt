@@ -3739,8 +3739,6 @@ int id progress_circular 0x7f0901bd
 int id progress_horizontal 0x7f0901be
 int id radio 0x7f0901bf
 int id ratio 0x7f0901c0
-int id rbKasir 0x7f0901c1
-int id rbOwner 0x7f0901c2
 int id rbQris 0x7f0901c3
 int id rbTunai 0x7f0901c4
 int id rectangles 0x7f0901c5

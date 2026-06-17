@@ -71,45 +71,16 @@
                 android:inputType="textPassword" />
         </com.google.android.material.textfield.TextInputLayout>
 
-        <!-- Role selection -->
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Role"
-            android:textSize="13sp"
-            android:textStyle="bold"
-            android:textColor="@color/text_primary"
-            android:layout_marginBottom="8dp" />
+        <!-- Role selection: staf baru yang ditambahkan owner selalu berperan sebagai Kasir.
+             Pembuatan akun Owner baru tidak diizinkan lewat fitur ini untuk menghindari
+             penyalahgunaan hak akses penuh. -->
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginBottom="20dp">
-
-            <RadioButton
-                android:id="@+id/rbOwner"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="Owner"
-                android:buttonTint="@color/green_primary" />
-
-            <RadioButton
-                android:id="@+id/rbKasir"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="Kasir"
-                android:checked="true"
-                android:buttonTint="@color/green_primary" />
-        </LinearLayout>
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnSimpan"
             style="@style/BekalMuButton"
             android:layout_width="match_parent"
-            android:layout_height="@dimen/button_height"
+            android:layout_height="wrap_content"
             android:text="Simpan Staf" />
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>

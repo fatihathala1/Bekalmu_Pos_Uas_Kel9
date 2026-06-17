@@ -204,8 +204,6 @@ id orderDetailContainer
 id orderDetailContainerKategori
 id overlay
 id progressBar
-id rbKasir
-id rbOwner
 id rbQris
 id rbTunai
 id rgMetodePembayaran

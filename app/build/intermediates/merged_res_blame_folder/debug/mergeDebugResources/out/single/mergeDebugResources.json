@@ -232,6 +232,10 @@
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_periode.png"
     },
     {
+        "merged": "com.bekalmu.pos.app-debug-53:/layout_dialog_tambah_staf.xml.flat",
+        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_tambah_staf.xml"
+    },
+    {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_person.xml.flat",
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_person.xml"
     },
@@ -318,10 +322,6 @@
     {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_edit.png.flat",
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_edit.png"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_pengaturan.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_pengaturan.xml"
     },
     {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_arrow_down.xml.flat",
@@ -514,6 +514,10 @@
     {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_dialog_tambah_staf.xml.flat",
         "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_tambah_staf.xml"
+    },
+    {
+        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_login.xml.flat",
+        "source": "com.bekalmu.pos.app-main-55:/layout/activity_login.xml"
     },
     {
         "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-mdpi_ic_launcher.webp.flat",

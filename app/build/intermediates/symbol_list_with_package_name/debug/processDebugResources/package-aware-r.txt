@@ -3740,8 +3740,6 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
-id rbKasir
-id rbOwner
 id rbQris
 id rbTunai
 id rectangles

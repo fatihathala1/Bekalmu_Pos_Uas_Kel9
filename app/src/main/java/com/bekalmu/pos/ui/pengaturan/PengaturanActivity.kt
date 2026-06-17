@@ -119,7 +119,9 @@ class PengaturanActivity : AppCompatActivity() {
             val nama = dialogBinding.etNama.text.toString().trim()
             val username = dialogBinding.etUsername.text.toString().trim()
             val password = dialogBinding.etPassword.text.toString().trim()
-            val role = if (dialogBinding.rbOwner.isChecked) "owner" else "kasir"
+            // Staf yang ditambahkan owner selalu berperan sebagai Kasir.
+            // Pembuatan akun Owner baru tidak diizinkan lewat fitur ini.
+            val role = "kasir"
 
             if (nama.isEmpty()) { dialogBinding.tilNama.error = "Nama wajib diisi"; return@setOnClickListener }
             if (username.isEmpty()) { dialogBinding.tilUsername.error = "Username wajib diisi"; return@setOnClickListener }
