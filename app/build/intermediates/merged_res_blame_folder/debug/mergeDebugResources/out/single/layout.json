@@ -1,110 +1,114 @@
 [
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_inventori.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_inventori.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\dialog_restok.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_restok.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/dialog_restok.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_restok.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_kas.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_kas.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_transaksi_header.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_transaksi_header.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_transaksi_row.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_transaksi_row.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_detail_transaksi.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_detail_transaksi.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_cart.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_cart.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_detail_transaksi.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_detail_transaksi.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_transaksi.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_transaksi.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_rekap_kasir.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_rekap_kasir.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\dialog_tambah_staf.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_tambah_staf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_inventori.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_inventori.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_pengaturan.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_catat_kas.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_catat_kas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\fragment_kasir.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\fragment_kasir.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\fragment_laporan.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\fragment_laporan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\dialog_konfirmasi_bayar.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_konfirmasi_bayar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_transaksi_header.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_transaksi_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_cart.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_cart.xml"
     },
     {
         "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_pengaturan.xml",
         "source": "com.bekalmu.pos.app-main-55:/layout/activity_pengaturan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/fragment_home.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_inventori.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_inventori.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_struk.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_struk.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_detail_transaksi.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_detail_transaksi.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_inventori.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_inventori.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_struk.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_struk.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_rekap_kasir.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_rekap_kasir.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_produk_kasir.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_produk_kasir.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_kas.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_kas.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_tambah_produk.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_tambah_produk.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_transaksi_row.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_transaksi_row.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_staf.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_staf.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_kas.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_kas.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/fragment_laporan.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/fragment_laporan.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_login.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_transaksi.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_transaksi.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_kas.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_kas.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\activity_laporan.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_laporan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/item_produk_kasir.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_produk_kasir.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/dialog_tambah_staf.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_tambah_staf.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_laporan.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_laporan.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_tambah_produk.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_tambah_produk.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/fragment_kasir.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/fragment_kasir.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_main.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_splash.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_splash.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_detail_transaksi.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_detail_transaksi.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/dialog_konfirmasi_bayar.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_konfirmasi_bayar.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-mergeDebugResources-52:/layout/activity_catat_kas.xml",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_catat_kas.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-mergeDebugResources-52:\\layout\\item_staf.xml",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_staf.xml"
     }
 ]

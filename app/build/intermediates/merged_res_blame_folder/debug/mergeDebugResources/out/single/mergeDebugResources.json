@@ -1,582 +1,586 @@
 [
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_telur_balado.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_telur_balado.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_es_teh.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_es_teh.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/color_chip_bg_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/color/chip_bg_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_kas.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_kas.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_profil.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_profil.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_arrow_up.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_arrow_up.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_dialog_restok.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_restok.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_food_placeholder.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_food_placeholder.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_ayam_kentaki.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_ayam_kentaki.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_chevron_right.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_fragment_kasir.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/fragment_kasir.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_periode.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_periode.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_green_surface_rounded.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_green_surface_rounded.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_menu_snack.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_menu_snack.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bottom_nav_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bottom_nav_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_kembali.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_kembali.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_dialog_restok.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_restok.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_chevron_right.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_chevron_right.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_badge.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_badge.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_arrow_up.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_arrow_up.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_inventory.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_inventory.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_simpan.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_simpan.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_main.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_nav_active.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_nav_active.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\color_bottom_nav_text_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\color\\bottom_nav_text_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_arrow_down.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_arrow_down.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_group.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_notification.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_notification.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_pisang_goreng.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_pisang_goreng.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_logo_circle.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_logo_circle.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_nasi_kuning.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_nasi_kuning.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_struk.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_struk.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_lauk.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_lauk.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_menumakanan.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_menumakanan.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_es_teh.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_es_teh.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_white_alpha.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_white_alpha.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_back.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_laporan.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_laporan.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_menuminuman.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_menuminuman.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_nasi_ayam_goreng.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_nasi_ayam_goreng.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_detail_transaksi.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_detail_transaksi.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_es_coklat.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_es_coklat.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_home.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_rekap_kasir.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_rekap_kasir.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\font\\poppins_semibold.ttf"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_inventori.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_inventori.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_laporan.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_laporan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_lauk.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_lauk.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_notification.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_lumpia.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_lumpia.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_wallet.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_wallet.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_btn_kurang.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_btn_kurang.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_menu_snack.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_menu_snack.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/color_chip_text_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/color/chip_text_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_kentang_goreng.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_kentang_goreng.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_search.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_search.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_kas.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_kas.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_detail_transaksi.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_detail_transaksi.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_wallet.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_trending_up.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_trending_up.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\font\\poppins_bold.ttf"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\font\\poppins_medium.ttf"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_produk_kasir.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_produk_kasir.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_dialog_konfirmasi_bayar.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_konfirmasi_bayar.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_printer.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_printer.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_inventori.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_inventori.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_store.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_store.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_nasi_ayam_goreng.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_nasi_ayam_goreng.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_splash_circle.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_splash_circle.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/color_bottom_nav_text_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/color/bottom_nav_text_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_payment_option.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_payment_option.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_catat_kas.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_catat_kas.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_avatar_circle.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_avatar_circle.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_ayam_gulai.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_ayam_gulai.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/font_poppins_bold.ttf.flat",
-        "source": "com.bekalmu.pos.app-main-55:/font/poppins_bold.ttf"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_profil.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_profil.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_home.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ripple_menu_item.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ripple_menu_item.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_ayam_kentaki.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_ayam_kentaki.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_struk.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_struk.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_badge.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_badge.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_chip_green.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_chip_green.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_qr_code.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_qr_code.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_nasi_ayam_bakar.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_nasi_ayam_bakar.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_kas.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_kas.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_more_vert.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_more_vert.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/font_poppins_regular.ttf.flat",
-        "source": "com.bekalmu.pos.app-main-55:/font/poppins_regular.ttf"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_logo_bekalmu.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\logo_bekalmu.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_green_surface_rounded.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_green_surface_rounded.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_store.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_store.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_image_picker.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_image_picker.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_cart.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_menu_makanan.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_menu_makanan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_notifikasi.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_notifikasi.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_inventori.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_inventori.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_printer.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_printer.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_chip_text_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\chip_text_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/menu_bottom_nav_menu.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/menu/bottom_nav_menu.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_periode.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_periode.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_menu_minuman.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_menu_minuman.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_person.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_dialog_tambah_staf.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/dialog_tambah_staf.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_more_vert.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_staf.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_staf.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_qty_control.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_qty_control.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_laporan.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_laporan.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_check_circle.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_transaksi_header.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_transaksi_header.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\color_bottom_nav_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\color\\bottom_nav_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_pisang_goreng.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_pisang_goreng.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_remove.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_remove.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_kentang_goreng.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_kentang_goreng.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_trending_up.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_trending_up.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_cart.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_cart.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_delete.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_logo_bekalmu.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/logo_bekalmu.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_detail_transaksi.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_detail_transaksi.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_icon_green.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_icon_green.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_staf.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_staf.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_inventori.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_inventori.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_btn_add.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_btn_add.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_splash.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_laporan.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_laporan.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bottom_nav_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bottom_nav_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_transaksi.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_transaksi.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_nasi_ayam_bakar.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_nasi_ayam_bakar.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_group.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_group.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_bar_chart.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_bar_chart.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_chip_color_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/chip_color_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_logout.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_white_alpha.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_white_alpha.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_menuminuman.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_menuminuman.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_transaksi_row.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_transaksi_row.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_transaksi_row.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_transaksi_row.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/navigation_nav_graph.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_air_mineral.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_air_mineral.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_inventory.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_inventory.xml"
-    },
-    {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_fragment_laporan.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/fragment_laporan.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_edit.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_edit.png"
     },
     {
         "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_pengaturan.xml.flat",
         "source": "com.bekalmu.pos.app-main-55:/layout/activity_pengaturan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_person.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_person.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_arrow_down.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/color_bottom_nav_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/color/bottom_nav_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_dialog_konfirmasi_bayar.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_konfirmasi_bayar.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_icon_red_light.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_icon_red_light.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_lock.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/font_poppins_semibold.ttf.flat",
-        "source": "com.bekalmu.pos.app-main-55:/font/poppins_semibold.ttf"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\font\\poppins.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_receipt.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_receipt.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_icon_green_light.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_icon_green_light.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/color_chip_color_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/color/chip_color_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_produk_kasir.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_produk_kasir.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_nav_active.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_nav_active.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_chip_outline.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_chip_outline.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_chip_green_outline.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_chip_green_outline.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/font_poppins_medium.ttf.flat",
-        "source": "com.bekalmu.pos.app-main-55:/font/poppins_medium.ttf"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_add.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_payment_option_selected.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_payment_option_selected.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_notifikasi.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_notifikasi.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_edit.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_edit.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_back.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_back.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_simpan.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_simpan.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_menu_minuman.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_menu_minuman.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_transaksi_header.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_transaksi_header.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_qty_control.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_qty_control.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_ayam_gulai.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_ayam_gulai.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_payment_option_selected.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_payment_option_selected.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_add.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_add.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_btn_kurang.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_btn_kurang.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_air_mineral.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_air_mineral.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_chart_gradient_fill.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\chart_gradient_fill.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_chip_green.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_chip_green.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_inventori.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_inventori.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_payment_option.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_payment_option.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_search.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_red_surface_rounded.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_red_surface_rounded.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_beranda.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_beranda.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_kas.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_kas.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_btn_add.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_btn_add.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\color_chip_color_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\color\\chip_color_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_item_kas.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/item_kas.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_lock.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_lock.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_menusnack.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_menusnack.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_splash_circle.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_splash_circle.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_avatar_circle.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_avatar_circle.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_kasir.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_kasir.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_red_surface_rounded.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_red_surface_rounded.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_remove.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_remove.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_transaksi.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_transaksi.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_chip_text_selector.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/chip_text_selector.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_cart.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_chart_gradient_fill.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/chart_gradient_fill.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_logo_circle.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_logo_circle.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_info.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_info.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_kembali.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_kembali.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_transaksi.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_transaksi.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_qr_code.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_qr_code.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_menusnack.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_menusnack.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_telur_balado.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_telur_balado.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_kasir.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_kasir.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_logout.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_logout.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_receipt.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_receipt.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_transaksi.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_transaksi.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_check_circle.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_check_circle.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_icon_green_light.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_icon_green_light.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_inventori.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_inventori.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_kas.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_kas.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_fragment_kasir.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\fragment_kasir.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_menu_makanan.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_menu_makanan.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_image_picker.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_image_picker.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_add_photo.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_add_photo.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_info.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_info.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_bg_chip_green_outline.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/bg_chip_green_outline.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_icon_red_light.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_icon_red_light.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_pengaturan.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_pengaturan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_tambah_produk.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_tambah_produk.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_login.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_icon_green.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_icon_green.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_delete.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_delete.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_dialog_tambah_staf.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\dialog_tambah_staf.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_tambah_produk.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_tambah_produk.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/font_poppins.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/font/poppins.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_add_photo.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_add_photo.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_fragment_home.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_nasi_lauk.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_nasi_lauk.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_settings.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_settings.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_menumakanan.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_menumakanan.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_bar_chart.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_bar_chart.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_beranda.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_beranda.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_menu_es_coklat.png.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\menu_es_coklat.png"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_close.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_close.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_activity_catat_kas.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\activity_catat_kas.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.bekalmu.pos.app-main-55:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_bg_chip_outline.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\bg_chip_outline.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_cart.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_cart.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_fragment_laporan.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\fragment_laporan.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ic_nasi_lauk.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ic_nasi_lauk.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\color_chip_text_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\color\\chip_text_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_lumpia.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_lumpia.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_chip_color_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\chip_color_selector.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_menu_nasi_kuning.png.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/menu_nasi_kuning.png"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/drawable_ripple_menu_item.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/drawable/ripple_menu_item.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\layout_item_rekap_kasir.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\layout\\item_rekap_kasir.xml"
     },
     {
-        "merged": "com.bekalmu.pos.app-debug-53:/layout_activity_detail_transaksi.xml.flat",
-        "source": "com.bekalmu.pos.app-main-55:/layout/activity_detail_transaksi.xml"
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_food_placeholder.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_food_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\color_chip_bg_selector.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\color\\chip_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-debug-53:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Fatih Athala R\\.gradle\\daemon\\9.2.1\\com.bekalmu.pos.app-main-55:\\drawable\\ic_close.xml"
     }
 ]

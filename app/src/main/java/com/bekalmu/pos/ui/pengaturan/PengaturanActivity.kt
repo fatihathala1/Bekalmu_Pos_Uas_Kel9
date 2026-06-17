@@ -60,8 +60,9 @@ class PengaturanActivity : AppCompatActivity() {
         )
         binding.rvStaf.layoutManager = LinearLayoutManager(this)
         binding.rvStaf.adapter = stafAdapter
-        // Sembunyikan daftar staf untuk kasir
+        // Sembunyikan daftar staf (label + list) untuk kasir
         if (!sessionManager.isOwner()) {
+            binding.tvDaftarStaf.visibility = View.GONE
             binding.rvStaf.visibility = View.GONE
         }
     }

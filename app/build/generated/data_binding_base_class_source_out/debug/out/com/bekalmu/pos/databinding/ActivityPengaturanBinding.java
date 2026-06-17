@@ -35,6 +35,9 @@ public final class ActivityPengaturanBinding implements ViewBinding {
   public final RecyclerView rvStaf;
 
   @NonNull
+  public final TextView tvDaftarStaf;
+
+  @NonNull
   public final TextView tvNamaUser;
 
   @NonNull
@@ -42,12 +45,14 @@ public final class ActivityPengaturanBinding implements ViewBinding {
 
   private ActivityPengaturanBinding(@NonNull ScrollView rootView, @NonNull ImageView btnBack,
       @NonNull LinearLayout menuLogout, @NonNull LinearLayout menuManajemenStaf,
-      @NonNull RecyclerView rvStaf, @NonNull TextView tvNamaUser, @NonNull TextView tvRoleUser) {
+      @NonNull RecyclerView rvStaf, @NonNull TextView tvDaftarStaf, @NonNull TextView tvNamaUser,
+      @NonNull TextView tvRoleUser) {
     this.rootView = rootView;
     this.btnBack = btnBack;
     this.menuLogout = menuLogout;
     this.menuManajemenStaf = menuManajemenStaf;
     this.rvStaf = rvStaf;
+    this.tvDaftarStaf = tvDaftarStaf;
     this.tvNamaUser = tvNamaUser;
     this.tvRoleUser = tvRoleUser;
   }
@@ -103,6 +108,12 @@ public final class ActivityPengaturanBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.tvDaftarStaf;
+      TextView tvDaftarStaf = ViewBindings.findChildViewById(rootView, id);
+      if (tvDaftarStaf == null) {
+        break missingId;
+      }
+
       id = R.id.tvNamaUser;
       TextView tvNamaUser = ViewBindings.findChildViewById(rootView, id);
       if (tvNamaUser == null) {
@@ -116,7 +127,7 @@ public final class ActivityPengaturanBinding implements ViewBinding {
       }
 
       return new ActivityPengaturanBinding((ScrollView) rootView, btnBack, menuLogout,
-          menuManajemenStaf, rvStaf, tvNamaUser, tvRoleUser);
+          menuManajemenStaf, rvStaf, tvDaftarStaf, tvNamaUser, tvRoleUser);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
