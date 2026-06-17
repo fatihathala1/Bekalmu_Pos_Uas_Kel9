@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F7F5</color>
+    <color name="bottom_nav_bg">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="chip_selected">#1B5E20</color>
+    <color name="chip_unselected">#FFFFFF</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="green_card">#F1F8E9</color>
+    <color name="green_light">#4CAF50</color>
+    <color name="green_primary">#1B5E20</color>
+    <color name="green_surface">#E8F5E9</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="red_danger">#D32F2F</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_hint">#AAAAAA</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_warning">#F9A825</color>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <string name="app_name">BekalMu POS</string>
+    <string name="beranda">Beranda</string>
+    <string name="kasir">Kasir</string>
+    <string name="laporan">Laporan</string>
+    <string name="login_subtitle">Silakan masukkan detail akun cabang Anda.</string>
+    <string name="login_title">Masuk ke Cabang</string>
+    <style name="BekalMuButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/green_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="BekalMuButtonOutline" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/green_primary</item>
+        <item name="strokeColor">@color/green_primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="BekalMuCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="strokeColor">@color/card_stroke</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+    <style name="BekalMuChip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_bg_selector</item>
+        <item name="android:textColor">@color/chip_text_selector</item>
+        <item name="chipStrokeColor">@color/green_primary</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="chipCornerRadius">20dp</item>
+    </style>
+    <style name="BekalMuTextField" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxStrokeColor">@color/card_stroke</item>
+        <item name="hintTextColor">@color/text_hint</item>
+    </style>
+    <style name="BottomNavIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/green_primary</item>
+        <item name="shapeAppearance">@style/BottomNavIndicatorShape</item>
+    </style>
+    <style name="BottomNavIndicatorShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.BekalMuPOS" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+    <style name="Theme.BekalMuPOS.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_bekalmu</item>
+        <item name="postSplashScreenTheme">@style/Theme.BekalMuPOS</item>
+    </style>
+</resources>

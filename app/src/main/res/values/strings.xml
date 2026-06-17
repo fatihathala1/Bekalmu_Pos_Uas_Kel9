@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BekalMu POS</string>
+    <string name="beranda">Beranda</string>
+    <string name="kasir">Kasir</string>
+    <string name="laporan">Laporan</string>
+    <string name="login_title">Masuk ke Cabang</string>
+    <string name="login_subtitle">Silakan masukkan detail akun cabang Anda.</string>
+</resources>

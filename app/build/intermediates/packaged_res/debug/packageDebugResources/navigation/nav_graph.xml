@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.bekalmu.pos.ui.home.HomeFragment"
+        android:label="Beranda">
+        <action
+            android:id="@+id/action_home_to_kasir"
+            app:destination="@id/kasirFragment" />
+        <action
+            android:id="@+id/action_home_to_laporan"
+            app:destination="@id/laporanFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/kasirFragment"
+        android:name="com.bekalmu.pos.ui.kasir.KasirFragment"
+        android:label="Kasir" />
+
+    <fragment
+        android:id="@+id/laporanFragment"
+        android:name="com.bekalmu.pos.ui.laporan.LaporanFragment"
+        android:label="Laporan" />
+
+</navigation>

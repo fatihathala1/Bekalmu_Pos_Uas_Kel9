@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+    <!-- Toolbar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="16dp"
+        android:background="@color/background">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/ic_kembali"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_marginEnd="12dp"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_kasir"
+            android:tint="@color/background"
+            android:background="@drawable/bg_icon_green"
+            android:padding="8dp"
+            android:layout_marginEnd="10dp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Kasir"
+            android:textSize="18sp"
+            android:fontFamily="@font/poppins_semibold"
+            android:textColor="@color/text_primary" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#CCCCCC"/>
+
+    <!-- Content area - dynamic: shows categories OR products -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <!-- STATE 1: Empty order + Category view -->
+        <LinearLayout
+            android:id="@+id/viewCategoryState"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <!-- Detail Pesanan: tampil di halaman kategori juga, isi cart yang sedang berjalan -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/orderDetailContainerKategori"
+                style="@style/BekalMuCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="8dp"
+                android:visibility="gone">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rvOrderDetailKategori"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxHeight="220dp"
+                    android:nestedScrollingEnabled="true"
+                    android:paddingHorizontal="12dp"
+                    android:paddingVertical="4dp"
+                    android:clipToPadding="false"/>
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Empty order text -->
+            <LinearLayout
+                android:id="@+id/emptyOrderState"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:paddingVertical="24dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Belum ada pesanan"
+                    android:textSize="18sp"
+                    android:fontFamily="@font/poppins_bold"
+                    android:textColor="@color/text_primary"
+                    android:layout_marginBottom="4dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pilih produk di bawah untuk mulai\nmembuat pesanan pelanggan."
+                    android:textSize="13sp"
+                    android:fontFamily="@font/poppins_regular"
+                    android:textColor="@color/text_secondary"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <!-- Search bar -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/BekalMuTextField"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginBottom="16dp"
+                app:startIconDrawable="@drawable/ic_search"
+                app:boxBackgroundColor="#F5F5F5">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etSearchKategori"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Cari kategori..."
+                    android:inputType="text"
+                    android:fontFamily="@font/poppins_regular"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Category 2x2 Grid - sesuai Figma -->
+            <GridLayout
+                android:id="@+id/gridKategori"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:rowCount="2"
+                android:paddingHorizontal="16dp"
+                android:useDefaultMargins="true">
+
+                <!-- Minuman -->
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardMinuman"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="6dp"
+                    style="@style/BekalMuCard"
+                    android:foreground="?attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="16dp">
+                        <ImageView android:layout_width="36dp" android:layout_height="36dp"
+                            android:src="@drawable/ic_menuminuman" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Minuman" android:textSize="14sp"
+                            android:fontFamily="@font/poppins_semibold" android:textColor="@color/text_primary"/>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- Snack & Cemilan -->
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardSnack"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="6dp"
+                    style="@style/BekalMuCard"
+                    android:foreground="?attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="16dp">
+                        <ImageView android:layout_width="36dp" android:layout_height="36dp"
+                            android:src="@drawable/ic_menusnack" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Snack &amp; Cemilan" android:textSize="14sp"
+                            android:fontFamily="@font/poppins_semibold" android:textColor="@color/text_primary"/>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- Nasi + Lauk -->
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardNasiLauk"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="6dp"
+                    style="@style/BekalMuCard"
+                    android:foreground="?attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="16dp">
+                        <ImageView android:layout_width="36dp" android:layout_height="36dp"
+                            android:src="@drawable/ic_menumakanan" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Nasi + Lauk" android:textSize="14sp"
+                            android:fontFamily="@font/poppins_semibold" android:textColor="@color/text_primary"/>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- Lauk -->
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cardLauk"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="6dp"
+                    style="@style/BekalMuCard"
+                    android:foreground="?attr/selectableItemBackground">
+                    <LinearLayout android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="16dp">
+                        <ImageView android:layout_width="36dp" android:layout_height="36dp"
+                            android:src="@drawable/ic_menumakanan" android:layout_marginBottom="8dp"/>
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Lauk" android:textSize="14sp"
+                            android:fontFamily="@font/poppins_semibold" android:textColor="@color/text_primary"/>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+            </GridLayout>
+        </LinearLayout>
+
+        <!-- STATE 2: Product list (shown after category selected) -->
+        <LinearLayout
+            android:id="@+id/viewProductState"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <!-- Detail Pesanan: tampil di atas list menu, isi cart yang sedang berjalan -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/orderDetailContainer"
+                style="@style/BekalMuCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:visibility="gone">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rvOrderDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxHeight="220dp"
+                    android:nestedScrollingEnabled="true"
+                    android:paddingHorizontal="12dp"
+                    android:paddingVertical="4dp"
+                    android:clipToPadding="false"/>
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Search bar sesuai Figma -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/BekalMuTextField"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginBottom="12dp"
+                app:startIconDrawable="@drawable/ic_search"
+                app:boxBackgroundColor="#F5F5F5">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etSearchProduk"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Cari produk..."
+                    android:fontFamily="@font/poppins_regular"
+                    android:inputType="text"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Category header: back + icon + nama sesuai Figma -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingHorizontal="16dp"
+                android:paddingBottom="8dp">
+
+                <ImageView
+                    android:id="@+id/btnBackToCategory"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:src="@drawable/ic_kembali"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:layout_marginEnd="8dp"/>
+
+                <ImageView
+                    android:id="@+id/ivCategoryIcon"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:src="@drawable/ic_menuminuman"
+                    android:background="@drawable/bg_icon_green_light"
+                    android:padding="8dp"
+                    android:layout_marginEnd="8dp"/>
+
+                <TextView
+                    android:id="@+id/tvSelectedCategory"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Minuman"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:textColor="@color/text_primary"/>
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvProduk"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:paddingHorizontal="8dp"
+                android:paddingBottom="8dp"
+                android:clipToPadding="false"/>
+        </LinearLayout>
+    </FrameLayout>
+
+    <!-- Cart bottom panel -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/BekalMuCard"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="16dp"
+            android:paddingTop="14dp"
+            android:paddingBottom="14dp">
+
+            <!-- Baris 1: Pesanan (kiri) + Kosongkan (kanan) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Pesanan"
+                    android:textSize="14sp"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:textColor="@color/text_primary"/>
+
+                <TextView
+                    android:id="@+id/btnClearCart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kosongkan"
+                    android:textSize="12sp"
+                    android:fontFamily="@font/poppins_regular"
+                    android:textColor="@color/red_danger"
+                    android:paddingHorizontal="4dp"
+                    android:background="?attr/selectableItemBackground"/>
+            </LinearLayout>
+
+            <!-- Baris 2: Total Pembayaran (kiri) + Harga & items (kanan) - sesuai Figma -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Total Pembayaran"
+                    android:textSize="14sp"
+                    android:fontFamily="@font/poppins_regular"
+                    android:textColor="@color/text_primary"/>
+
+                <!-- Kanan: Rp + items (stack vertical, rata kanan) -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="end">
+
+                    <TextView
+                        android:id="@+id/tvTotal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rp0"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppins_bold"
+                        android:textColor="@color/green_primary"/>
+
+                    <TextView
+                        android:id="@+id/tvItemCount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0 items"
+                        android:textSize="12sp"
+                        android:fontFamily="@font/poppins_regular"
+                        android:textColor="@color/green_primary"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- Baris 3: Tombol Pembayaran FULL WIDTH sesuai Figma -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnBayar"
+                style="@style/BekalMuButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pembayaran"
+                android:textSize="15sp"
+                android:enabled="false"
+                app:icon="@drawable/ic_kas"
+                app:iconTint="@color/background"
+                app:iconSize="20dp"
+                app:iconGravity="textStart"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BekalMuPOS">
+
+        <!-- SPLASH (LAUNCHER) -->
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.BekalMuPOS.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- LOGIN -->
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- MAIN (Host Bottom Nav) -->
+        <activity
+            android:name=".ui.home.MainActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- STRUK / TANDA TERIMA -->
+        <activity
+            android:name=".ui.kasir.StrukActivity"
+            android:exported="false" />
+
+        <!-- INVENTORI -->
+        <activity
+            android:name=".ui.inventori.InventoriActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.home.MainActivity" />
+
+        <activity
+            android:name=".ui.inventori.TambahProdukActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize"
+            android:parentActivityName=".ui.inventori.InventoriActivity" />
+
+        <!-- TRANSAKSI -->
+        <activity
+            android:name=".ui.transaksi.TransaksiActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.home.MainActivity" />
+
+        <activity
+            android:name=".ui.transaksi.DetailTransaksiActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.transaksi.TransaksiActivity" />
+
+        <!-- KAS -->
+        <activity
+            android:name=".ui.kas.KasActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.home.MainActivity" />
+
+        <activity
+            android:name=".ui.kas.CatatKasActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize"
+            android:parentActivityName=".ui.kas.KasActivity" />
+
+        <!-- LAPORAN (standalone, dari StrukActivity) -->
+        <activity
+            android:name=".ui.laporan.LaporanActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.home.MainActivity" />
+
+        <!-- PENGATURAN -->
+        <activity
+            android:name=".ui.pengaturan.PengaturanActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.home.MainActivity" />
+
+    </application>
+</manifest>
